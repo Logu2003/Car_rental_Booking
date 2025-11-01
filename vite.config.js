@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 import { fileURLToPath, URL } from 'url';
 
 export default defineConfig({
-  base: '/Car_rental_Booking',
+  base: '/Car_rental_Booking/',
   plugins: [react()],
   resolve: {
     alias: {
