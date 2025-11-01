@@ -1,9 +1,9 @@
 {
   "name": "car-rental-system",
+  "homepage": "https://github.com/Logu2003/Car_rental_Booking.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abhinaya2411.github.io/car-rental-website/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
